@@ -39,6 +39,8 @@ I turn ideas into deployable tools, with a focus on web performance, automation,
 - Document the decisions that help the next contributor move faster
 
 <p align="center">
+  <a href="http://blog.cfnav.com/">Blog</a>
+  ·
   <a href="https://github.com/hg3386628?tab=repositories">Repositories</a>
   ·
   <a href="https://github.com/hg3386628?tab=stars">Open-source interests</a>
